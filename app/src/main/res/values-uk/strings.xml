@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="change_place">Змінити місце</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
